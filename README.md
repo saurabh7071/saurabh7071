@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabh7071
 - 👀 I’m interested in - Coding 
-- 🌱 I’m currently learning - DSA & Frontend_dev
+- 🌱 I’m currently learning - DSA & Development
 - 💞️ I’m looking to collaborate on - Other Programmers/Developers in Community.
 - 📫 How to reach me ...
 
