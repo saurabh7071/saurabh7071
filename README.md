@@ -8,7 +8,7 @@
 I'm a Computer Engineering graduate with a passion for building software that solves real-world problems.  
 Currently exploring full-stack web development and blockchain systems with a focus on practical application.
 
-- 🔭 Working on: Personal Portfolio Website 🪙  
+- 🔭 Working on: Personal Portfolio Website and Payment gateway integration for real money transaction 🪙  
 - 🌱 Learning: Advanced DSA, Next.js and Docker  
 - 🛠️ Tech: Java, oops, JavaScript, React, Node.js, Express, MongoDB, Git, PostgreSQL  
 - 🏆 Hackathon Finalist (2nd place @ Hack-O-Rama)  
