@@ -1,12 +1,13 @@
 <h1 align="center">Hi there, I'm Saurabh 👋</h1>
-<p align="center">🚀 Full-Stack Developer | 💡 Blockchain Enthusiast | 🧠 Problem Solver </p>
+<p align="center"> 🚀Full Stack Developer | Java • Javascript • React • Node.js • Express • MongoDB | 🔗Blockchain Enthusiast | 💻3+ Projects | CSE'25 | 🎯Open to Opportunities</p>
 
 ---
 
 ### 🧠 About Me
-
-I'm a Computer Engineering graduate with a passion for building software that solves real-world problems.  
-Currently exploring full-stack web development and blockchain systems with a focus on practical application.
+Technically skilled computer science graduate with a solid foundation in Java and practical experience in software development 
+through projects and coursework. Certified in SQL, Blockchain and NPTEL courses from IIT, reflecting a commitment to 
+continuous learning. Active in problem solving, hackathon participation and collaborative project work. Strong analytical skills, 
+teamwork, effective communication, and a focus on developing reliable software solutions while expanding technical expertise. 
 
 - 🔭 Working on: Personal Portfolio Website and Payment gateway integration for real money transaction 🪙  
 - 🌱 Learning: Advanced DSA, Next.js and Docker  
@@ -54,14 +55,10 @@ Currently exploring full-stack web development and blockchain systems with a foc
 
 ---
 
-### 🐍 Snake Eating My Contributions (Just for Fun)
+### 🐍 Snake Eating My Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saurabh7071/saurabh7071/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
+  ![snake gif](https://github.com/saurabh7071/saurabh7071/blob/output/github-snake-dark.svg)
+  
 ---
 
 ### 💬 Developer Quote
@@ -77,6 +74,7 @@ Currently exploring full-stack web development and blockchain systems with a foc
 - 📬 Email: svaidya.official@gmail.com  
 - 💼 LinkedIn: [saurabhxvaidya](https://www.linkedin.com/in/saurabhxvaidya)  
 - 🧑‍💻 GitHub: [@saurabh7071](https://github.com/saurabh7071)
+- 💻 Leetcode: [SaurabhVaidya90](https://leetcode.com/u/SaurabhVaidya90/)
 
 ---
 
